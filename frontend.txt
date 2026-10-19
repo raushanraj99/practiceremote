@@ -1,1 +1,2 @@
 v1. This is frontend initilization
+v2 development upodated
